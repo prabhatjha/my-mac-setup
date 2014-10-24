@@ -3,7 +3,7 @@ my-mac-setup
 
 Things I do on a brand new mac
 
-Apps, Tools, Utilities
+Apps
 -------------------------
 * Create two desktops - one for work and one for non-work
 * Google Chrome
